@@ -38,4 +38,7 @@
 
 ---
 
+![Zidhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zidhanmohd96-coder&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zidhanmohd96-coder&layout=compact&theme=tokyonight)
+
 ⭐ **“Code. Learn. Build. Repeat.”**
